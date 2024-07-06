@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/naveen/static/css/main.7b3d1f16.css",
+    "main.js": "/naveen/static/js/main.676a549f.js",
+    "static/js/453.13116392.chunk.js": "/naveen/static/js/453.13116392.chunk.js",
+    "index.html": "/naveen/index.html",
+    "main.7b3d1f16.css.map": "/naveen/static/css/main.7b3d1f16.css.map",
+    "main.676a549f.js.map": "/naveen/static/js/main.676a549f.js.map",
+    "453.13116392.chunk.js.map": "/naveen/static/js/453.13116392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b3d1f16.css",
+    "static/js/main.676a549f.js"
+  ]
+}
